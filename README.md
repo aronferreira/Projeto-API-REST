@@ -6,9 +6,9 @@ Este é meu primeiro projeto utilizando Java, SpringBoot e Maven para criar uma 
   
   ## Tecnologias utilizadas:
   
-  -Java
-  -SpringBoot
-  -Maven
+  - Java
+  - SpringBoot 
+  - Maven
 
 ## Contato:
 
