@@ -1,4 +1,4 @@
-# Projeto-ApiREST
+# Projeto API REST
 > Um projeto simples onde utilizei Java junto do framework SpringBoot para criar uma API REST simples para praticar e desenvolver meus conhecimentos.
 
 Este é meu primeiro projeto utilizando Java, SpringBoot e Maven para criar uma API REST! Foram cerca de 2 semanas de estudo constante e muita dedicação para aprender todos os conceitos e fundamentos necessários para poder entender o que cada peça do quebra-cabeça era.
